@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from core.model import test_user
+from qlab.core.model import test_user
 
 app = FastAPI()
 
